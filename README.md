@@ -1,5 +1,5 @@
-# PHP developer
-<h1>Certifikat</h1>
+# PHP developer VITA Academy
+<h1>Akreditovany certifikat</h1>
 <img src="certifikat1.jpeg" alt="" width="600">
 
 <h1>Osvedčenie</h1>
